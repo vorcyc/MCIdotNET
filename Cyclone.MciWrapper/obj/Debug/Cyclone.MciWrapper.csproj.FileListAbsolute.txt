@@ -1,0 +1,21 @@
+C:\Users\cycloneM\Desktop\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.dll
+C:\Users\cycloneM\Desktop\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.pdb
+C:\Users\cycloneM\Desktop\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cycloneM\Desktop\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.dll
+C:\Users\cycloneM\Desktop\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.pdb
+E:\cyclone's projects\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.dll
+E:\cyclone's projects\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.pdb
+E:\cyclone's projects\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.csprojResolveAssemblyReference.cache
+E:\cyclone's projects\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.dll
+E:\cyclone's projects\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.pdb
+E:\cyclone's projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.dll
+E:\cyclone's projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.pdb
+E:\cyclone's projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.csprojResolveAssemblyReference.cache
+E:\cyclone's projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.dll
+E:\cyclone's projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.pdb
+E:\cyclone projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.dll
+E:\cyclone projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\bin\Debug\Cyclone.MciWrapper.pdb
+E:\cyclone projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.csproj.AssemblyReference.cache
+E:\cyclone projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.csproj.CoreCompileInputs.cache
+E:\cyclone projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.dll
+E:\cyclone projects\MCI Wrapper\Cyclone.MciWrapper\Cyclone.MciWrapper\obj\Debug\Cyclone.MciWrapper.pdb
